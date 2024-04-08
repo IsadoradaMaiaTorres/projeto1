@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @IsadoradaMaiaTorres
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hello, I'm @IsadoradaMaiaTorres
+- 👀 I am interested in my future
+- 🌱 I am currently learning computer science
+- 💞️ I try to collaborate in my goals
+- 📫 How to contact me ########
+- 😄 Pronouns: I/my
+- ⚡ Fun fact: 1st year studying IT
 
 <!---
-IsadoradaMaiaTorres/IsadoradaMaiaTorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+IsadoradaMaiaTorres/IsadoradaMaiaTorres is a ✨ special ✨ repository because its `README.md` (this file) appears in your GitHub profile.
+You can click the Preview link to see your changes.
 --->
